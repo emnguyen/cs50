@@ -61,7 +61,8 @@ style50 hours.c
 - ***[Scrabble](https://cs50.harvard.edu/college/2022/fall/labs/2/)***
 
 ## Extra Resources
-
+- [CS50 Manual](https://manual.cs50.io/)
+- [CS50 Style Guide](https://cs50.readthedocs.io/style/c/)
 - [Video on Arrays](https://www.youtube.com/watch?v=mISkNAfWl8k&ab_channel=CS50)
 - [Video on Functions](https://www.youtube.com/watch?v=b7-0sb-DV84)
 - [Video on Command Line Arguments](https://www.youtube.com/watch?v=thL7ILwRNMM&ab_channel=CS50)
