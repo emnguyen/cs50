@@ -1,7 +1,7 @@
 # Welcome to CS50!
 Welcome to my lab resources! 👋🏻 Click on any week below to access practice problems and extra resources.
 ## Important Info
-- **Lab is every Thursday from 9-10:15am**, in Memorial Hall 028. Attendance is expected and required.
+- **Lab is every Thursday from 9-10:15am**, in Memorial Hall 028. Attendance is expected.
 - My tutorials are 7-8pm on Wednesdays.
 - If you ever have any questions or concerns, don't hesitate to reach out to me! My email is **emilynguyen [at] college [dot] harvard [dot] edu**
 ## Class Collaborative Spotify Playlist
