@@ -6,9 +6,7 @@
 - Running Time
 - Recursion
 
-## Warm-Up Exercises: 
-
-## Additional Lab Exercises 
+## Warm-Up Exercises:
 
 ###### Getting Started 
 1. Log into code.cs50.io using your GitHub account 
