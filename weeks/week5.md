@@ -1,6 +1,3 @@
-## Slides
-- Slides can be found [here](https://docs.google.com/presentation/d/1rDVkzzYuJesLKOkj957IstZW2NNNvSr8yGC2myHUW70/edit?usp=sharing).
-
 ## Topics of the Week
 
 - Linked Lists
