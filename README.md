@@ -16,3 +16,5 @@ Welcome to my lab resources! 👋🏻 Click on any week below to access practice
 [📚 Week 5: Data Structures](https://github.com/emnguyen/cs50/blob/main/weeks/week5.md)
 
 [🐍 Week 6: Python](https://github.com/emnguyen/cs50/blob/main/weeks/week6.md)
+
+[💬 Week 7: SQL](https://github.com/emnguyen/cs50/blob/main/weeks/week7.md)
