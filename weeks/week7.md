@@ -41,3 +41,4 @@ rm prophecy.zip
 ## Extra Resources
 
 - [W3Schools Documentation on SQL](https://www.w3schools.com/sql/)
+- [SQL Style Guide (How you should be setting up your files!)](https://www.sqlstyle.guide/)
