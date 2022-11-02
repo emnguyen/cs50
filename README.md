@@ -18,3 +18,5 @@ Welcome to my lab resources! 👋🏻 Click on any week below to access practice
 [🐍 Week 6: Python](https://github.com/emnguyen/cs50/blob/main/weeks/week6.md)
 
 [💬 Week 7: SQL](https://github.com/emnguyen/cs50/blob/main/weeks/week7.md)
+
+[🖥 Week 8: HTML, CSS, JavaScript](https://github.com/emnguyen/cs50/blob/main/weeks/week8.md)
